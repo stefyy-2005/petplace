@@ -1,0 +1,34 @@
+body{
+background-color: #A1CBE6;
+}
+
+li{
+    list-style: none;
+    margin-right: 25px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.navegacion{
+    display: flex;
+}
+.titular{
+    text-align: center;
+    margin-top: 200px;
+}
+a{
+    font-size: 14px;
+    background: #56486B;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    text-decoration: none;
+    color: bisque;
+}
+header{
+    background: url(../img/fondoms.jpg);
+    height: 100vh;
+    background-size: cover;
+}
